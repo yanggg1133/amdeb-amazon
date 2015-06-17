@@ -1,6 +1,15 @@
 [![Build Status](https://travis-ci.org/amdeb/amdeb-amazon.svg?branch=master)](https://travis-ci.org/amdeb/amdeb-amazon)
 [![Coverage Status](https://img.shields.io/coveralls/amdeb/amdeb-amazon.svg)](https://coveralls.io/r/amdeb/amdeb-amazon)
 
+
+1 需要先安装模块
+   amdeb-integrator
+
+2 需要安装Python模块 boto
+   
+   pip install boto
+
+
 Amdeb Amazon Integration
 ============
 
